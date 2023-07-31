@@ -1,0 +1,12 @@
+.listItemContainer{
+    text-align: left;
+    background-color:rgb(237, 230, 226);
+    padding: 2vh;
+    border-bottom: 2px solid #d5d5d5;
+}
+
+.listItemContainer > td{
+    font-size: medium;
+    font-weight: 600;
+   
+}

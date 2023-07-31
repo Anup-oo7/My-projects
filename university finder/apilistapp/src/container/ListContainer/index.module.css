@@ -1,0 +1,17 @@
+.heading{
+    height: 8vh;
+    text-align: left;
+    background-color:rgb(235, 219, 210);
+    padding: 2vh;
+}
+table{
+    border-bottom: 1px solid red;
+}
+.Name{
+    padding-left: 20px;
+}
+.heading>td{
+    font-size: large;
+    font-weight: bolder;
+}
+
