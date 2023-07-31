@@ -1,0 +1,29 @@
+
+
+.timer{
+    width: 100%;
+    height: 100vh;
+   display: flex;
+   justify-content: center;
+    background-color: rgb(118, 189, 216);
+}
+.container{
+    padding-top: 100px;
+}
+
+.timerBox{
+    background-color: aliceblue;
+    width: 30vw;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.reset,.stop{
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 5px;
+    width: 10vw;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
