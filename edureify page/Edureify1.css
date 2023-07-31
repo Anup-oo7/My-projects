@@ -1,0 +1,100 @@
+/*Edureify*/
+img{
+    width: 100% auto;
+}
+.container{
+    margin: 0 auto;
+    background-color:#eaf9f6;
+    justify-content: space-around;
+}
+h1{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.btn{
+    border-radius: 20px;
+    background-color:#335dff;
+    color: white;
+}
+.containerBlue{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    height: 80px;
+    width: auto;
+    margin-bottom: -50px;
+    background-color: #335dff;
+    padding: 20px;
+    border-radius: 10px;
+}
+.yellow{
+    color: yellow;
+}
+.user{
+    color: white; 
+}
+
+.twothousand{
+    color: yellow;
+
+}
+.school{
+    color: white;
+}
+
+/*Reasons to connect edureify*/
+h2{
+    color: #335dff;
+    font-weight: bolder;
+}
+h5{
+    font-weight: bolder;
+}
+button{
+    color: #335dff;
+    border: 2px solid  #335dff;
+    background-color: white;
+}
+.cards
+{
+    margin: 5px;
+    box-shadow: 0px 2px 0px rgb(176, 174, 174);
+}
+
+/*features*/
+.imgright{
+    width: 55%;
+    height: 100%;
+    background-color: #335dff;
+    position: absolute;
+    right: 0;
+    overflow: hidden;
+    transform: skew(345deg);
+    z-index: -1;
+    margin-right: -6em;
+}
+
+  /*know your students*/
+.contact{
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+/*form*/
+form .row{
+   padding: 10px;
+}
+textarea{
+    margin-left: -100px;
+}
+/*footer*/
+.black{
+    width: 100% auto;
+    height: 100%;
+    background-color:#151e24;
+    height: 20em;
+}
