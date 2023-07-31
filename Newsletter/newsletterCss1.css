@@ -1,0 +1,92 @@
+.blueArea{
+    background-color: #154bbe;
+    width: 50%;
+    height: 100%;
+    margin-left: 25em;   
+}
+    
+h2{
+   
+    text-align: center;
+    color: white;
+}
+h1{
+
+    text-align: center;
+    color: midnightblue;
+}
+.whiteArea{
+   background-color: white;
+   width: 70%;
+   height: 80%;
+   position: relative;
+   left: 5em;
+   padding: 2em;
+   border-radius: 10px;
+}
+
+
+.home{
+    background-color: midnightblue;
+    color: white;
+    width: 12em;
+    height: 18em;
+    padding-left: 15px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+img{
+    margin: -15px 26px 5px;
+    border-radius: 5px;
+    
+}
+
+.flightmode{
+    background-color: midnightblue;
+    color: white;
+    width: 12em;
+    height: 18em;
+    padding-left: 15px;
+    border-radius: 10px;
+    position: relative;
+    left: 18em;
+    bottom: 18em;
+}
+
+.treadmill{
+    background-color: midnightblue;
+    color: white;
+    width: 12em;
+    height: 19em;
+    padding-left: 15px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: -15em;
+}
+
+.girl{
+    background-color: midnightblue;
+    color: white;
+    width: 12em;
+    height: 19em;
+    padding-left: 15px;
+    border-radius: 10px;
+    position: relative;
+    left: 18em;
+    bottom: 18em;
+    margin-top: -1em;
+}
+
+p{
+  margin-top: -15em;  
+}
+
+.owner{
+    margin-left: -35px;
+}
+
+.birdLogo{
+    margin-top: 5em;
+    margin-left: 3em;
+}

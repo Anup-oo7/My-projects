@@ -1,0 +1,71 @@
+.whiteArea{
+    background-color: white;
+    width: 51%;
+   margin-left: 25em;
+   height: 820px;
+}
+
+.b1{
+    height: 480px;
+    width: 200px;
+    background-color:#5bbab3 ;
+    padding: 8px;
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+   
+}
+
+.handshake{
+    position: relative;
+    bottom: 30em;
+    left: 15em;
+}
+
+.b2{ 
+    position: relative;
+    bottom: 29em;
+    left: 15em;
+    background-color: #e6e6e6 ;
+    width: 13em;
+    padding: 10px;
+   height: 15em;
+}
+.b3{
+    position: relative;
+    bottom: 45.5em;
+    left: 30em;
+    background-color: #e6e6e6 ;
+    width: 14em;
+    padding: 10px;
+    height: 15em;
+}
+.b4{
+    position: relative;
+    bottom: 44em;
+    left: .5em;
+    background-color: #e6e6e6 ;
+    width: 12.5em;
+    padding: 10px;
+    height: 16em;
+}
+.b5{
+    position: relative;
+    bottom: 61em;
+    left: 15em;
+    background-color: #e6e6e6 ;
+    width: 13.5em;
+    padding: 10px;
+    height: 16em;
+    margin-bottom: 15px;
+}
+.b6{
+    position: relative;
+    bottom: 79em;
+    left: 31em;
+    background-color: #e6e6e6 ;
+    width: 13.5em;
+    padding: 10px;
+    height: 16em;
+    margin-bottom: 15px;
+}
